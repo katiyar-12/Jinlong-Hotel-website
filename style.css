@@ -1,0 +1,74 @@
+.btn-warning{
+    
+    background-color:#ffa812;
+    color: rgb(8, 6, 6);
+    font-weight: 900;
+}
+.btn-outline-light{
+    background-color:#ffa812;
+    color: rgb(8, 6, 6);
+    font-weight: 900;
+}
+
+.d-block{
+    height: 600px;
+    width: 600px;
+}
+
+.col-lg-6  h1{
+    font-weight: 900;
+
+}
+.col-lg-6  h2 { 
+    font-weight: 700;
+}
+
+.col-lg-6  > *{
+    font-family: "Libre Baskerville", serif;
+}
+.d-flex  h3{
+    font-family: "Libre Baskerville", serif;
+}
+
+.d-flex  p{
+    font-family: "Libre Baskerville", serif;
+
+}
+.heading-dragonHotel{
+    text-align: center;
+    font-family:  "Ubuntu", sans-serif;
+    font-weight: 800;
+    
+}
+.fw-light{
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.lead{
+    font-family: "Libre Baskerville", serif;
+}
+
+#hotel-name{
+    font-size: large;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 200;
+}
+
+#founders-heading{
+    text-align: center;
+    font-family:  "Ubuntu", sans-serif;
+    font-weight: 800;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.business > img{
+    height: 200px;
+    width: 200px;
+    border-radius : 50%; 
+}
+
+#membership{
+
+    font-size: x-large;
+}
